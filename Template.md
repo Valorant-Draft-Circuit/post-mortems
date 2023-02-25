@@ -14,7 +14,7 @@ scribe: Name
 
 - Brief overview of what happened: Summarize the outcome of the vote, including the number of votes cast and the result.
 
-- Impact of the event: Describe the potential impact of the vote outcome on the community, organization, or relevant stakeholders.
+- Impact of the event: Describe the potential impact of the vote outcome on the community, organization.
 
 - Response and resolution: Discuss any actions that have been taken or are planned to address the outcome of the vote.
 

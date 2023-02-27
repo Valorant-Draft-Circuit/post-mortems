@@ -2,7 +2,6 @@
 title: Incident/Action name
 date: Date
 scribe: Name
-level: 1-6
 ---
 
 # Incident/Action name

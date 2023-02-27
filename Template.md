@@ -2,7 +2,7 @@
 title: Incident/Action name
 date: Date
 scribe: Name
-level: 1-6
+votes: X to Y
 ---
 
 # Incident/Action name

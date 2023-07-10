@@ -15,11 +15,11 @@ scribe: metamagic
 - Brief overview of what happened: 
   - After being presented with evidence that Ethan had sent NSFW pictures to a mod, in addition to repeated trolling behavior and bandwagon harassment in the VDC Discord, Ethan was banned from VDC for a minimum of 1 season, subject to appeal. His ban was voted on by the admin team but was carried out improperly through right click discord ban by the server owner. This shouldn't happen, as all bans should go through the Dyno bot so that the banned player has information about why they were banned and the path to appeal.
   
-` `  
+
 - Impact of the event: 
   - Removal of a player who has been repeatedly disruptive and trolling the community and staff.
 
-` `
+
 - Response and resolution: 
   - Banned player 'Calypso'
   - Issued yet another public statement about harassment of staff. Actually crazy that we have to keep saying this.
@@ -42,11 +42,11 @@ scribe: metamagic
   - Rule 5: Failing to follow a verbal
   - Rule 1: Excessively spamming
 
-` `
+
 - <ins>Punishment History for 'Calypso' supporting our decision to ban</ins>
   - **May 30th:** Warning for excessive spam pings
   - **June 19th:** Warning for repeatedly posting moderator screenshot to incite drama
   - **June 21st:** Muted for excessive spamming and ignoring verbal warnings by responding to them with more spam.
 
-` `
+
 - Note: this only includes bot actions, he also received numerous verbal warnings that are not logged.

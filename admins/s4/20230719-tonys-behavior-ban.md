@@ -27,6 +27,8 @@ scribe: Shakadi
 
 - Encouraging violence against anyone is a violation of Discord ToS and can result in the server being shut down and is intolerable. In addition, the behavior is unacceptable and should always result in heavy punishment.
 
+- This is a permanent ban from Valorant Draft Circuit and can not be appealed.
+
 ## Appendix
 
 - Relevant rules: 

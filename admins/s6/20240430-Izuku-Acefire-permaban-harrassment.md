@@ -18,7 +18,7 @@ scribe: Hunter
 
 Izuku was given a mute and a warning to cease his harassment on April 19, 2024. He continued to harass players even after his mute, culminating in a final report on April 25, 2024. 
 
-Izuku did not respond well to his initial punishment, attempting to falsely accuse players of breaking rules. These players were people he assumed had reported him of "starting it" and "lur[ing] him in." This would have fallen under Rule 9, False accusations of a serious offense (ex: intentionally falsely accusing others of tier 2/3 rule breaks).
+Izuku did not respond well to his initial punishment, attempting to falsely accuse players of breaking rules as retaliation for reporting him. He accused these players of "starting it" and "lur[ing] him in." This would have fallen under Rule 9, False accusations of a serious offense (ex: intentionally falsely accusing others of tier 2/3 rule breaks).
 
 - Impact of the event: This player is no longer welcome in this league and is subsequently permanently banned from VDC due to his harassment of members. 
 

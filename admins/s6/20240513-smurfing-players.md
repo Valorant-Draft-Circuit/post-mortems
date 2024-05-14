@@ -11,7 +11,7 @@ scribe: Hunter
 
 - Description of the event: NotKenny#hers and PreppyPenguin99#ezzz (formerly Clipz#ezzz) are playing on smurf accounts in VDC. Multiple players were aware of these players playing on smurf accounts. 
 
-## Summary
+## Summary of Events
 
 - Brief overview of what happened:
     - After a thorough investigation following a report that these two players were smurfing, we found credible evidence of smurfing. In addition to the evidence, we found multiple people implicated in this situation. 

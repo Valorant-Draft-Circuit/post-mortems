@@ -30,10 +30,10 @@ On July 2, 2024, Reflex began an extremely uncomfortable, inappropriate conversa
 - "It's okay hottie I can make u feel safe . . . In my arms"
 - Asking a member "do u have big kahoonas"
 - "R u hard" "Mmmmmm I'm holding mine too"
-- Sending and immediately deleting messages such as:
--     "And ur caught im underage"
--     "U good little e kitten"
--     "I'm thinking of you and ur c**k" (original message censored)
+Sending and immediately deleting messages such as:
+- "And ur caught im underage"
+- "U good little e kitten"
+- "I'm thinking of you and ur c**k" (original message censored)
 During this incident, Reflex also doxxed a player by leaking where they went to school; their face; and called them a pedophile. 
 
 - Impact of the event: This player is no longer welcome in this league and is subsequently permanently banned from VDC due to his harassment of members. 

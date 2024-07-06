@@ -25,15 +25,15 @@ On May 24, 2024, Reflex was then muted for harassing a player by asking them for
 On May 26, 2024, Reflex attempted to retaliate against people who reported him for behavioral infractions by harassing players in their DMs. 
 
 On July 2, 2024, Reflex began an extremely uncomfortable, inappropriate conversation with a minor in Mythic chat. This conversation joked about pedophilia. His side of the conversation included verbatim statements such as: 
-    - "*thinks to himself that she's so hot*; 
-    - "So where do u live We should link up;" 
-    - "It's okay hottie I can make u feel safe . . . In my arms"
-    - Asking a member "do u have big kahoonas"
-    - "R u hard" "Mmmmmm I'm holding mine too"
-    - Sending and immediately deleting messages such as:
-        - "And ur caught im underage"
-        - "U good little e kitten"
-        - "I'm thinking of you and ur c**k" (original message censored)
+- "*thinks to himself that she's so hot*;
+- "So where do u live We should link up;"
+- "It's okay hottie I can make u feel safe . . . In my arms"
+- Asking a member "do u have big kahoonas"
+- "R u hard" "Mmmmmm I'm holding mine too"
+- Sending and immediately deleting messages such as:
+-     "And ur caught im underage"
+-     "U good little e kitten"
+-     "I'm thinking of you and ur c**k" (original message censored)
 During this incident, Reflex also doxxed a player by leaking where they went to school; their face; and called them a pedophile. 
 
 - Impact of the event: This player is no longer welcome in this league and is subsequently permanently banned from VDC due to his harassment of members. 

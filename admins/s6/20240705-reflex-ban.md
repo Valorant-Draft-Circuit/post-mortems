@@ -34,11 +34,12 @@ Sending and immediately deleting messages such as:
 - "And ur caught im underage"
 - "U good little e kitten"
 - "I'm thinking of you and ur c**k" (original message censored)
+
 During this incident, Reflex also doxxed a player by leaking where they went to school; their face; and called them a pedophile. 
 
-- Impact of the event: This player is no longer welcome in this league and is subsequently permanently banned from VDC due to his harassment of members. 
+Impact of the event: This player is no longer welcome in this league and is subsequently permanently banned from VDC due to his harassment of members. 
 
-- Response and resolution:
+Response and resolution:
     - Reflex has been banned from VDC permanently as we take harassment and doxxing of members extremely seriously. 
     
  ## Conclusion

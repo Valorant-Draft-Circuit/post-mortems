@@ -6,7 +6,7 @@ scribe: Admin Team
 
 # S7 Atempted Poaching
 
-Date and Time of Occurrence: 11-14-2024 7:30PMEST
+Date and Time of Occurrence: 11-07-2024 7:30PMEST
 
 Admins have investigated reports of poaching that have taken place from August 2024-November 2024. 
 

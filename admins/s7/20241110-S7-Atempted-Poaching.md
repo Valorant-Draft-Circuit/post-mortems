@@ -11,7 +11,7 @@ Date and Time of Occurrence: 11-07-2024 7:30PMEST
 Admins have investigated reports of poaching that have taken place from August 2024-November 2024. 
 
 ## Summary: 
-On the 14th of November admins received reports that Kenny, who is still under contract to Project Nova, had sent a copy and paste message to his GM wishing to be cut. The message in question still had "hi (to whoever you message)". Further evidence was brought to the admins.  Below is a list of the people involved and the proven actions that were taken in this discussion. 
+On the 7th of November admins received reports that Kenny, who is still under contract to Project Nova, had sent a copy and paste message to his GM wishing to be cut. The message in question still had "hi (to whoever you message)". Further evidence was brought to the admins.  Below is a list of the people involved and the proven actions that were taken in this discussion. 
 
 ### Muppet
 Evidence that shared examples of how to send a cut message to their GM, with the full copy and paste options.

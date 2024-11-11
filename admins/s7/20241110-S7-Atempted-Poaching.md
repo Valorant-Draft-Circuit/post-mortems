@@ -1,10 +1,10 @@
 ---
-title: S7 Atempted Poaching
+title: S7 Attempted Poaching
 date: 11-10-2024
 scribe: Admin Team
 --- 
 
-# S7 Atempted Poaching
+# S7 Attempted Poaching
 
 Date and Time of Occurrence: 11-07-2024 7:30PMEST
 
